@@ -19,13 +19,10 @@ module:
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
-languages:
-  en:
-    languageName: English
-    weight: 1
-  bn:
-    languageName: বাংলা
-    weight: 3
+#languages:
+#  en:
+#    languageName: English
+#    weight: 1
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -85,7 +82,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
@@ -102,7 +99,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -173,11 +170,11 @@ params:
 
     # specify whether you want to show Table of Contents in reading page
     toc:
-      enable: true
+      enable: false
 
     # Show tags under the post title
     tags:
-      enable: true
+      enable: false
       on_card: true # enables tags in post cards
 
     # Specify whether to show flag in the language selector. Default is true.
