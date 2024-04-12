@@ -3,7 +3,7 @@ name: "Patrick Marcoux"
 nickname: "Photex"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Why hello there! I'm"
-image: "images/author/me.png"
+image: "images/author/patrick-marcoux.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "patrick@photex-media.net"
@@ -14,8 +14,7 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - I am a Broadcast Engineer
+  - I am a Transmission Specialist
+  - I work in esports
+
