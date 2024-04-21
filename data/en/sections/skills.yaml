@@ -11,39 +11,40 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Transmission
+  logo: /images/sections/skills/srt.png
+  summary: "Deploying, managing and troubleshooting most software and hardware based SRT encoders from manufacturers such as Haivision, AJA and Ateme."
+  url: "https://www.srtalliance.org/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
+- name: Dante
+  logo: /images/sections/skills/dante.png
+  summary: "Certified to operate and deploy Dante based audio networks in a LAN environment as well as experience deploying in AWS."
+  url: "https://www.audinate.com/"
+  
+- name: NDI
+  logo: /images/sections/skills/ndi.png
+  summary: "Building and managing NDI based studios both in person and remotely in the cloud."
+  url: "https://ndi.video/"  
+    
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked with most cloud providers, mainly AWS for in the box video production control rooms."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Deployment and Management of most services using Docker/Docker swarms."
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
+- name: Grafana
+  logo: /images/sections/skills/grafana.svg
   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+  url: "https://grafana.com/"
 
+- name: InfluxDB
+  logo: /images/sections/skills/Influxdb.svg
+  summary: "Deployment, administration and configuration. Experienced with InfluxQL, AlertManager and the new FLUX query language. Also, experienced with most metric exporters such as Telegraf, Prometheus and Zabbix"
+  url: "https://influxdata.com/"
+  
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
-
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Experience using only terminal interfaces for deploying the majority of services listed above"

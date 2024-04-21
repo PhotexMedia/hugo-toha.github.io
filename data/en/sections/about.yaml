@@ -44,7 +44,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/PMarcouxResume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -53,17 +53,17 @@ badges:
 - type: certification
   name: Dante Certification Level 3
   url: "https://www.getdante.com/resources/training/dante-certification-program/"
-  badge: "https://www.getdante.com/app/uploads/2024/02/cert-3-seal-668x700.png"
+  badge: "files/cert-3-seal-668x700.webp"
 
 - type: certification
   name: Dante Domain Manager
   url: "https://www.getdante.com/resources/training/dante-certification-program/"
-  badge: "https://www.getdante.com/app/uploads/2024/02/ddm-seal-1-668x700.png"
+  badge: "files/ddm-seal-1-668x700.webp"
 
 - type: certification
   name: Dante AV
   url: "https://www.getdante.com/resources/training/dante-certification-program/"
-  badge: "https://www.getdante.com/app/uploads/2024/02/dante-av-padded-477x500.png"
+  badge: "files/dante-av-padded-668x700.webp"
 
 
 - type: soft-skill-indicator
@@ -77,7 +77,7 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Vibes
   percentage: 100
   color: orange
 
